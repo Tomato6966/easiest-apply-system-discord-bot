@@ -1,0 +1,15 @@
+{
+  "name": "easiest_apply_system",
+  "version": "1.0.4",
+  "description": "The easiest apply sytem ever! By Tomato#6966",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "Tomato#6966",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
