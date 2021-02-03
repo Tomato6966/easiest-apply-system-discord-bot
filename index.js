@@ -62,7 +62,7 @@ client.on("messageReactionAdd", async (reaction, user) => {
         let guild = await message.guild.fetch();
         let channel_tosend = guild.channels.cache.get(config.finished_applies_channel_id);
         if(!channel_tosend) return console.log("RETURN FROM !CHANNEL_TOSEND");
-        let answers = [];
+        const answers = [];
         let counter = 0;
 
         ask_question(config.QUESTIONS[counter]);
