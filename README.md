@@ -22,18 +22,17 @@ This is the Source Code of my Tutorial on how to code the easiest Application Sy
 #### **NOTE:**
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
-
 ## BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
 Bittmax is our first and probably most important sponsor!
 
 **What they are offering:**
->> Quality LXC & KVM (Root) Server
->> Minecraft Hosting, as well as BungeeCord Network Hosting support
->> Cheap and fast Domains
->> WEBHOSTING
->> DISCORD, TEAMSPEAK, Setups / Music Bots
->> GAME SERVER, Rust, Gary's Mod, ..
+> Quality LXC & KVM (Root) Server
+> Minecraft Hosting, as well as BungeeCord Network Hosting support
+> Cheap and fast Domains
+> WEBHOSTING
+> DISCORD, TEAMSPEAK, Setups / Music Bots
+> GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
 [https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
@@ -49,12 +48,12 @@ MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
 
 **What they are offering:**
->> Quality LXC & KVM (Root) Server
->> WORLDS BEST Minecraft Hosting,
->> Cheap and fast Domains
->> WEBHOSTING
->> DISCORD, TEAMSPEAK, Setups / Music Bots
->> GAME SERVER, Rust, Gary's Mod, ..
+> Quality LXC & KVM (Root) Server
+> WORLDS BEST Minecraft Hosting,
+> Cheap and fast Domains
+> WEBHOSTING
+> DISCORD, TEAMSPEAK, Setups / Music Bots
+> GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
 [https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
